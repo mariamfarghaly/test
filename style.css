@@ -1,0 +1,62 @@
+header .container
+{
+    padding: 20;
+    color: #AAA;
+    font-family: cursive;
+    font-size: 25 ! important;
+}
+.container
+{
+    margin: 15 auto;
+}
+label
+{
+    display: block;
+    font-family: cursive;
+    font-size: 15;
+    text-align: center;
+}
+.form-header
+{
+    text-align: center;
+    font-family: cursive;
+}
+.form-group
+{
+    background-color: #E6E5E1;
+    width: 80%;
+    margin: 15 auto;
+    padding: 15;
+    position: relative;
+}
+.m-auto
+{
+    text-align: center;
+}
+.btn
+{
+    padding: 10px 15px;
+    margin: 15px 5px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 15px;
+}   
+footer .container
+{
+    padding: 20px;
+    border-top: 1px;
+    font-size: 15px;
+    font-family: cursive;
+}
+.form-control
+{
+    position: absolute;
+    height: 30;
+    width: 100%;
+}
+.h_line
+{
+    width:80%;
+    height:1px;
+    background: #AAA;
+}
